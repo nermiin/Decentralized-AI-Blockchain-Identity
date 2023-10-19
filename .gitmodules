@@ -1,0 +1,9 @@
+[submodule "Solidity-Blockchain-SmartContracts"]
+	path = Solidity-Blockchain-SmartContracts
+	url = https://github.com/nermiin/Solidity-Blockchain-SmartContracts.git
+[submodule ".Net-Backend-Api"]
+	path = .Net-Backend-Api
+	url = https://github.com/nermiin/.Net-Backend-Api.git
+[submodule "Python-AI-Identity-verification"]
+	path = Python-AI-Identity-verification
+	url = https://github.com/nermiin/Python-AI-Identity-verification.git
