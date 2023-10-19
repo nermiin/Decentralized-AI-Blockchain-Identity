@@ -19,3 +19,14 @@ A decentralized identity verification system designed to enhance security and us
 4. **AI Verification**: AI engine verifies the identity.
 5. **Blockchain Update**: Smart Contract updates with verification results.
 
+### Contributing
+Feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Contact
+Nermin Kaya
+📧 nermin.kaya.sau@gmail.com
+🌐 LinkedIn
+
