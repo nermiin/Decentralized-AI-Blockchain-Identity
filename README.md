@@ -13,7 +13,7 @@ A decentralized identity verification system designed to enhance security and us
 - **Front-end**: A simple UI built with React.
 
 ### Requirements Analysis 
-[Please click here]([./path/to/file](https://github.com/nermiin/Decentralized-AI-Blockchain-Identity/blob/main/Requirements%20Analysis.md))
+([Please click here](https://github.com/nermiin/Decentralized-AI-Blockchain-Identity/blob/main/Requirements%20Analysis.md))
 
 ### Flow
 1. **User Interaction**: The user initiates a request from the Front-end.
