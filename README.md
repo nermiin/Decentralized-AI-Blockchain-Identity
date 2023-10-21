@@ -12,6 +12,9 @@ A decentralized identity verification system designed to enhance security and us
 - **API Gateway**: Built with .NET, serves as the bridge between Blockchain and AI components.
 - **Front-end**: A simple UI built with React.
 
+### Requirements Analysis 
+[Please click here]([./path/to/file](https://github.com/nermiin/Decentralized-AI-Blockchain-Identity/blob/main/Requirements%20Analysis.md))
+
 ### Flow
 1. **User Interaction**: The user initiates a request from the Front-end.
 2. **API Gateway**: The request is passed to the API Gateway.
